@@ -1,0 +1,17 @@
+.App {
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.high-score{
+    color: green
+}
+.medium-score{
+    color: sandybrown;
+}
+.low-score{
+    color: red;
+}
+span{
+    padding: 0 3px;
+}
